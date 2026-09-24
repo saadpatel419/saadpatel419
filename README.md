@@ -1,102 +1,114 @@
-<h1 align="center">Hi 👋, I'm Saad Patel</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.E.+CSE+Graduate;Exploring+Data+Science+%26+AI;Learning%2C+Building+%26+Growing;Aspiring+Data+Science+Professional" alt="Typing Animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:0e75b6,100:00E5A0&height=230&section=header&text=Saad%20Patel&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=60" alt="Header Banner"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadpatel419&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### B.E. CSE Graduate | Exploring Data Science & AI | Learning, Building & Growing 🚀
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadpatel419/saadpatel419/main/assets/data-science.gif" width="420" alt="Data Science Animation">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Exploring+Data+Science+%26+AI;Learning+Something+New+Every+Day;Building+My+Technical+Journey;Turning+Learning+Into+Projects" alt="Typing Animation"/>
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<br>
 
-<p align="center">
-  🎓 B.E. CSE Graduate<br>
-  📊 Exploring Data Science & Artificial Intelligence<br>
-  🌱 Currently learning and building through practical projects<br>
-  🚀 Growing toward a career in Data Science
-</p>
+<a href="https://github.com/saadpatel419">
+  <img src="https://komarev.com/ghpvc/?username=saadpatel419&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
 
----
+</div>
 
-<h2 align="center">📊 GitHub Profile Summary</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00E5A0&height=3&section=header" width="100%" alt="divider"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadpatel419&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=00E5A0&center=true&vCenter=true&width=435&height=45&lines=Profile+Summary" alt="Profile Summary"/>
 
-<h2 align="center">📈 GitHub Statistics</h2>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadpatel419&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
-</p>
+> I am a **B.E. Computer Science & Engineering graduate** exploring **Data Science and Artificial Intelligence**.
+>
+> My focus is on data, programming, analytics, machine learning, and AI, learning step by step and reinforcing it through practical projects and consistent practice. 🚀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadpatel419&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00E5A0&height=3&section=header" width="100%" alt="divider"/>
 
----
+<div align="center">
 
-<h2 align="center">🔥 Contribution Streak</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=36BCF7&center=true&vCenter=true&width=435&height=45&lines=Skills" alt="Skills"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadpatel419&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+<br>
 
----
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,mysql,python&theme=dark" alt="VS Code, Eclipse, MySQL, Python Core"/>
 
-<h2 align="center">📅 Contribution Activity</h2>
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadpatel419&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" />
-</p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Python%20Core-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Core"/>
 
----
+</div>
 
-<h2 align="center">🧮 GitHub Contribution Overview</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00E5A0&height=3&section=header" width="100%" alt="divider"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadpatel419&theme=github_dark" alt="GitHub Statistics Summary" />
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=FF7A59&center=true&vCenter=true&width=435&height=45&lines=Contribution+Activity" alt="Contribution Activity"/>
 
-<h2 align="center">💻 LeetCode</h2>
+<br>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/saad_patel?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
-</p>
+<a href="https://github.com/saadpatel419?tab=followers">
+  <img src="https://img.shields.io/github/followers/saadpatel419?style=for-the-badge&logo=github&label=FOLLOWERS&color=0e75b6" alt="Followers"/>
+</a>
 
----
+<br><br>
 
-<h2 align="center">💬 Dev Quote</h2>
+<a href="https://github.com/saadpatel419">
+  <img src="https://streak-stats.demolab.com?user=saadpatel419&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00E5A0&height=3&section=header" width="100%" alt="divider"/>
 
-<h2 align="center">🔗 Connect With Me</h2>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saad-patel-2154a5264/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn">
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=FFA116&center=true&vCenter=true&width=435&height=45&lines=LeetCode" alt="LeetCode"/>
 
-  <a href="https://leetcode.com/u/saad_patel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30" alt="LeetCode">
-  </a>
-</p>
+<br>
 
----
+<a href="https://leetcode.com/u/saad_patel/">
+  <img src="https://leetcard.jacoblin.cool/saad_patel?theme=dark&font=baloo&ext=contest" alt="LeetCode Statistics"/>
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer" alt="Footer Animation">
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00E5A0&height=3&section=header" width="100%" alt="divider"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=B388FF&center=true&vCenter=true&width=435&height=45&lines=Dev+Quote" alt="Dev Quote"/>
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00E5A0&height=3&section=header" width="100%" alt="divider"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=36BCF7&center=true&vCenter=true&width=435&height=45&lines=Connect+With+Me" alt="Connect With Me"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/saad-patel-2154a5264/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:saadpatel0692@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,50:0e75b6,100:0f2027&height=120&section=footer&animation=twinkling" alt="Footer"/>
+
+</div>
