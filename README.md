@@ -219,7 +219,7 @@ Email
 <!-- LINKEDIN -->
 <td align="center" width="50%">
 
-<a href="https://www.linkedin.com/in/saad-patel-2154a5264/">
+<a href="https://www.linkedin.com/in/mdsaadpatel/">
 <img src="https://img.icons8.com/color/96/linkedin.png" width="65" height="65" alt="LinkedIn"/>
 </a>
 
